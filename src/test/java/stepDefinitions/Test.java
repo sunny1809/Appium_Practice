@@ -7,9 +7,7 @@ public class Test {
 
         System.out.println("New Changes");
 
-        System.out.println("New Changes");
-
-        System.out.println("New Changes");
+        System.out.println("New Changes again");
     }
 
 }
